@@ -1,4 +1,4 @@
 def reverse_each_word
    sentence = ["Hello there, how are you?"]
-   sentence.reverse_each do \
-end
+   puts sentence.reverse
+end 
